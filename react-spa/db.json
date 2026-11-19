@@ -1,0 +1,73 @@
+{
+  "store_info": [
+    {
+      "id": 1,
+      "name": "TechVault",
+      "description": "Your trusted destination for laptops, phones and TVs",
+      "phone_number": "555-0199",
+      "email": "support@techvault.com"
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "name": "MacBook Pro 14\"",
+      "description": "M3 Pro chip, 18GB RAM, 512GB SSD, Liquid Retina XDR display",
+      "brand": "Apple",
+      "category": "Laptop",
+      "price": 1999.00,
+      "stock": 12,
+      "image": "https://via.placeholder.com/300x300?text=MacBook+Pro"
+    },
+    {
+      "id": 2,
+      "name": "Samsung Galaxy S24 Ultra",
+      "description": "6.8\" Dynamic AMOLED, 200MP camera, Snapdragon 8 Gen 3",
+      "brand": "Samsung",
+      "category": "Phone",
+      "price": 1299.99,
+      "stock": 25,
+      "image": "https://via.placeholder.com/300x300?text=Galaxy+S24"
+    },
+    {
+      "id": 3,
+      "name": "LG C3 65\" OLED TV",
+      "description": "4K OLED, 120Hz, Dolby Vision, webOS",
+      "brand": "LG",
+      "category": "TV",
+      "price": 1799.00,
+      "stock": 8,
+      "image": "https://via.placeholder.com/300x300?text=LG+OLED"
+    },
+    {
+      "id": 4,
+      "name": "Dell XPS 13",
+      "description": "Intel Core Ultra 7, 16GB RAM, 512GB SSD, InfinityEdge display",
+      "brand": "Dell",
+      "category": "Laptop",
+      "price": 1299.00,
+      "stock": 15,
+      "image": "https://via.placeholder.com/300x300?text=Dell+XPS"
+    },
+    {
+      "id": 5,
+      "name": "iPhone 16 Pro",
+      "description": "A18 Pro chip, 48MP camera, Titanium design",
+      "brand": "Apple",
+      "category": "Phone",
+      "price": 999.00,
+      "stock": 30,
+      "image": "https://via.placeholder.com/300x300?text=iPhone+16"
+    },
+    {
+      "id": 6,
+      "name": "Sony Bravia 55\"",
+      "description": "4K HDR, Google TV, Cognitive Processor XR",
+      "brand": "Sony",
+      "category": "TV",
+      "price": 999.99,
+      "stock": 10,
+      "image": "https://via.placeholder.com/300x300?text=Sony+Bravia"
+    }
+  ]
+}
